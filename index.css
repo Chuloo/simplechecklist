@@ -1,0 +1,24 @@
+.container{
+  position:fixed;
+  height:100%;
+  width:100%; 
+  background-color:hsl(210, 0%, 99%);
+  overflow-y:scroll;
+}
+h1{
+  padding-top:6%;
+  text-align:center;
+  margin-bottom:4%
+}
+.checklist{
+  margin: auto 20%;
+}
+.submit{
+  margin-top:30px;
+  border:none;
+  height:50px;
+}
+.date{
+  margin-bottom:20px;
+  font-weight:bold;
+}
